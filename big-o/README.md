@@ -1,3 +1,9 @@
+# 참고 자료[복습 할 것!]
+
+[Big O Notation](https://cs.slides.com/colt_steele/big-o-notation#/9)
+[Big O introduction](https://rithmschool.github.io/function-timer-demo/)
+[Big O Of Arrays and Objects](https://cs.slides.com/colt_steele/built-in-data-structures-25)
+
 # 퀴즈
 
 ## 1. 다음 빅오 표현식을 간단히 해보세요 - O(n + 10)
@@ -158,5 +164,29 @@ function subtotals(array) {
     return subtotalArray;
 }
 ```
+
+### O(n)
+
+## 16. 오브젝트에 키와 값을 추가하기 위한 빅오는 무엇일까요?
+
+### O(1)
+
+## 17.오브젝트의 키에 접근하기 위한 빅오는 무엇일까요?
+
+### O(1)
+
+## 18. 오브젝트의 키를 제거하기 위한 빅오는 무엇일까요?
+
+### O(1)
+
+## 19. 배열 안에 데이터를 삽입하는 빅오는 무엇일까요?
+
+### O(1)
+
+## 20. 배열 안에 데이터를 이동하는 빅오는 무엇일까요?
+
+### O(n)
+
+## 21. forEach 함수를 위한 빅오는 무엇일까요?
 
 ### O(n)
