@@ -72,13 +72,13 @@ function logAtMost10(n) {
 
 ## 8. 아래 함수에 대한 시간 복잡도를 구하세요.
 
-...
+```
 function logAtLeast10(n) {
 for (var i = 1; i <= Math.max(n, 10); i++) {
 console.log(i);
 }
 }
-...
+```
 
 ### O(n)
 
