@@ -1,8 +1,8 @@
 # 참고 자료[복습 할 것!]
 
-[Big O Notation](https://cs.slides.com/colt_steele/big-o-notation#/9)
-[Big O introduction](https://rithmschool.github.io/function-timer-demo/)
-[Big O Of Arrays and Objects](https://cs.slides.com/colt_steele/built-in-data-structures-25)
+1. [Big O Notation](https://cs.slides.com/colt_steele/big-o-notation#/9)
+2. [Big O introduction](https://rithmschool.github.io/function-timer-demo/)
+3. [Big O Of Arrays and Objects](https://cs.slides.com/colt_steele/built-in-data-structures-25)
 
 # 퀴즈
 
